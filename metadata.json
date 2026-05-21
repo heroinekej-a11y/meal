@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "오늘 날짜와 주간 데이터를 기반으로 한 맛있는 씨마스고등학교의 급식 관리 및 영양 계산 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
